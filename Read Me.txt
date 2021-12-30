@@ -1,0 +1,22 @@
+Hello!!
+
+Note that the images are from kaggle, but we have rearranged the different sets of data.
+DATASET IS HERE: https://drive.google.com/drive/folders/1GjtXTtHVioquk0OHJzoNspWxxuS9pNbQ?usp=sharing
+
+
+The Pneumonia Saves 2.0 is where all of the data that is recorded will go.
+
+Task order:
+
+Image Size
+Activation Functions
+Num of Conv2D
+Layers
+Kernel Size
+Pool Size
+Optimizers
+
+If we want to get the BEST BEST BEST model, then we can test out the best image size, 
+num of conv2D, and the layers together. This would take quite a long time to test.
+I'm not sure if it would have a major impact but it would certainly be worth trying if we want
+the best model possible.
