@@ -159,7 +159,7 @@ for n in tqdm(files):
     ppv = (cm[0][0] / (cm[0][0] + cm[1][0] + cm[2][0])) * 100
     npv = ((cm[1][1] + cm[1][2] + cm[2][1] + cm[2][2]) / (cm[0][1] + cm[0][2] + cm[1][1] + cm[1][2] + cm[2][1] + cm[2][2])) * 100
     accuracyBinary = ((cm[0][0] + cm[1][1] + cm[2][2] + cm[0][2] + cm[2][0]) / total) * 100
-    fp = cm[0][1] + cm[2][1]
+    fn = cm[0][1] + cm[2][1]
 
     # Open the file and write the calculated information into the file
     file = open(fileLocation + fileName, 'a')
@@ -176,8 +176,8 @@ for n in tqdm(files):
     file.write(str(npv) + '%')
     file.write('\nBinary Accuracy: ')
     file.write(str(accuracyBinary) + '%')
-    file.write('\nNum Of False Positives: ')
-    file.write(str(fp) + '\n')
+    file.write('\nNum Of False Negatives: ')
+    file.write(str(fn) + '\n')
     file.close()
 
     # Visualize the confusion matrix
