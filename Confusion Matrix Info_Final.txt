@@ -1,0 +1,950 @@
+Model: 250x250_8
+Accuracy: 84.21052631578947%
+Sensitivity: 87.5%
+Specificity: 85.76051779935275%
+Positive Predictive Value: 84.77508650519032%
+Negative Predictive Value: 88.33333333333333%
+Binary Accuracy: 96.26485568760611%
+Precision rate: 96.68615984405457%
+Num Of False Negatives: 17
+
+Model: 175x175_19
+Accuracy: 84.21052631578947%
+Sensitivity: 86.42857142857143%
+Specificity: 87.70226537216828%
+Positive Predictive Value: 86.42857142857143%
+Negative Predictive Value: 87.70226537216828%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 95.93810444874275%
+Num Of False Negatives: 21
+
+Model: 250x250_17
+Accuracy: 84.04074702886248%
+Sensitivity: 84.64285714285714%
+Specificity: 88.02588996763754%
+Positive Predictive Value: 86.4963503649635%
+Negative Predictive Value: 86.34920634920636%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 95.1923076923077%
+Num Of False Negatives: 25
+
+Model: 250x250_13
+Accuracy: 83.87096774193549%
+Sensitivity: 83.57142857142857%
+Specificity: 88.02588996763754%
+Positive Predictive Value: 86.34686346863468%
+Negative Predictive Value: 85.53459119496856%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 96.10894941634241%
+Num Of False Negatives: 20
+
+Model: 175x175_3
+Accuracy: 83.87096774193549%
+Sensitivity: 86.07142857142858%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 85.15901060070671%
+Negative Predictive Value: 87.25490196078431%
+Binary Accuracy: 95.75551782682513%
+Precision rate: 97.05304518664047%
+Num Of False Negatives: 15
+
+Model: 250x250_6
+Accuracy: 83.70118845500849%
+Sensitivity: 88.21428571428571%
+Specificity: 85.43689320388349%
+Positive Predictive Value: 84.58904109589042%
+Negative Predictive Value: 88.88888888888889%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 95.91439688715954%
+Num Of False Negatives: 21
+
+Model: 200x200_5
+Accuracy: 83.5314091680815%
+Sensitivity: 86.78571428571429%
+Specificity: 87.37864077669903%
+Positive Predictive Value: 86.17021276595744%
+Negative Predictive Value: 87.94788273615634%
+Binary Accuracy: 94.39728353140917%
+Precision rate: 95.90643274853801%
+Num Of False Negatives: 21
+
+Model: 375x375_2
+Accuracy: 83.5314091680815%
+Sensitivity: 86.07142857142858%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.68055555555556%
+Negative Predictive Value: 87.04318936877077%
+Binary Accuracy: 96.26485568760611%
+Precision rate: 96.66011787819254%
+Num Of False Negatives: 17
+
+Model: 150x150_15
+Accuracy: 83.5314091680815%
+Sensitivity: 85.0%
+Specificity: 87.70226537216828%
+Positive Predictive Value: 86.23188405797102%
+Negative Predictive Value: 86.5814696485623%
+Binary Accuracy: 94.90662139219015%
+Precision rate: 96.28180039138942%
+Num Of False Negatives: 19
+
+Model: 175x175_9
+Accuracy: 83.5314091680815%
+Sensitivity: 86.78571428571429%
+Specificity: 85.43689320388349%
+Positive Predictive Value: 84.375%
+Negative Predictive Value: 87.70764119601328%
+Binary Accuracy: 95.75551782682513%
+Precision rate: 96.47058823529412%
+Num Of False Negatives: 18
+
+Model: 200x200_3
+Accuracy: 83.3616298811545%
+Sensitivity: 85.71428571428571%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 85.1063829787234%
+Negative Predictive Value: 86.97068403908796%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 96.46365422396856%
+Num Of False Negatives: 18
+
+Model: 200x200_4
+Accuracy: 83.3616298811545%
+Sensitivity: 86.07142857142858%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.68055555555556%
+Negative Predictive Value: 87.04318936877077%
+Binary Accuracy: 96.09507640067912%
+Precision rate: 96.46365422396856%
+Num Of False Negatives: 18
+
+Model: 200x200_7
+Accuracy: 83.3616298811545%
+Sensitivity: 86.42857142857143%
+Specificity: 86.08414239482201%
+Positive Predictive Value: 84.91228070175438%
+Negative Predictive Value: 87.5%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 95.8984375%
+Num Of False Negatives: 21
+
+Model: 250x250_5
+Accuracy: 83.3616298811545%
+Sensitivity: 86.78571428571429%
+Specificity: 84.46601941747572%
+Positive Predictive Value: 83.50515463917526%
+Negative Predictive Value: 87.58389261744966%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 96.84418145956607%
+Num Of False Negatives: 16
+
+Model: 250x250_18
+Accuracy: 83.3616298811545%
+Sensitivity: 86.42857142857143%
+Specificity: 85.76051779935275%
+Positive Predictive Value: 84.61538461538461%
+Negative Predictive Value: 87.45874587458746%
+Binary Accuracy: 95.75551782682513%
+Precision rate: 96.27450980392157%
+Num Of False Negatives: 19
+
+Model: 375x375_1
+Accuracy: 83.3616298811545%
+Sensitivity: 83.57142857142857%
+Specificity: 87.37864077669903%
+Positive Predictive Value: 85.71428571428571%
+Negative Predictive Value: 85.44303797468355%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 95.52529182879378%
+Num Of False Negatives: 23
+
+Model: 75x75_2
+Accuracy: 83.3616298811545%
+Sensitivity: 85.35714285714285%
+Specificity: 86.08414239482201%
+Positive Predictive Value: 84.75177304964538%
+Negative Predictive Value: 86.64495114006515%
+Binary Accuracy: 95.75551782682513%
+Precision rate: 97.22772277227722%
+Num Of False Negatives: 14
+
+Model: 75x75_4
+Accuracy: 83.3616298811545%
+Sensitivity: 88.57142857142857%
+Specificity: 84.46601941747572%
+Positive Predictive Value: 83.78378378378379%
+Negative Predictive Value: 89.07849829351537%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 96.08610567514677%
+Num Of False Negatives: 20
+
+Model: 150x150_7
+Accuracy: 83.3616298811545%
+Sensitivity: 87.85714285714286%
+Specificity: 85.11326860841424%
+Positive Predictive Value: 84.24657534246576%
+Negative Predictive Value: 88.55218855218855%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 97.03557312252964%
+Num Of False Negatives: 15
+
+Model: 150x150_16
+Accuracy: 83.3616298811545%
+Sensitivity: 85.71428571428571%
+Specificity: 85.76051779935275%
+Positive Predictive Value: 84.50704225352112%
+Negative Predictive Value: 86.88524590163934%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 96.65354330708661%
+Num Of False Negatives: 17
+
+Model: 150x150_18
+Accuracy: 83.3616298811545%
+Sensitivity: 85.71428571428571%
+Specificity: 86.73139158576052%
+Positive Predictive Value: 85.40925266903915%
+Negative Predictive Value: 87.01298701298701%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 97.61431411530815%
+Num Of False Negatives: 12
+
+Model: 200x200_18
+Accuracy: 83.1918505942275%
+Sensitivity: 82.85714285714286%
+Specificity: 88.02588996763754%
+Positive Predictive Value: 86.2453531598513%
+Negative Predictive Value: 85.0%
+Binary Accuracy: 96.09507640067912%
+Precision rate: 96.64694280078896%
+Num Of False Negatives: 17
+
+Model: 225x225_13
+Accuracy: 83.1918505942275%
+Sensitivity: 84.28571428571429%
+Specificity: 87.70226537216828%
+Positive Predictive Value: 86.13138686131386%
+Negative Predictive Value: 86.03174603174604%
+Binary Accuracy: 94.56706281833617%
+Precision rate: 95.3307392996109%
+Num Of False Negatives: 24
+
+Model: 250x250_15
+Accuracy: 83.1918505942275%
+Sensitivity: 88.57142857142857%
+Specificity: 83.49514563106796%
+Positive Predictive Value: 82.94314381270902%
+Negative Predictive Value: 88.96551724137932%
+Binary Accuracy: 95.92529711375212%
+Precision rate: 97.22222222222221%
+Num Of False Negatives: 14
+
+Model: 100x100_1
+Accuracy: 83.1918505942275%
+Sensitivity: 87.14285714285714%
+Specificity: 85.43689320388349%
+Positive Predictive Value: 84.42906574394463%
+Negative Predictive Value: 88.0%
+Binary Accuracy: 94.73684210526315%
+Precision rate: 95.8904109589041%
+Num Of False Negatives: 21
+
+Model: 100x100_17
+Accuracy: 83.1918505942275%
+Sensitivity: 86.42857142857143%
+Specificity: 86.08414239482201%
+Positive Predictive Value: 84.91228070175438%
+Negative Predictive Value: 87.5%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 96.07843137254902%
+Num Of False Negatives: 20
+
+Model: 175x175_1
+Accuracy: 83.1918505942275%
+Sensitivity: 83.92857142857143%
+Specificity: 86.08414239482201%
+Positive Predictive Value: 84.53237410071942%
+Negative Predictive Value: 85.53054662379421%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 95.8904109589041%
+Num Of False Negatives: 21
+
+Model: 200x200_9
+Accuracy: 83.02207130730051%
+Sensitivity: 85.71428571428571%
+Specificity: 86.08414239482201%
+Positive Predictive Value: 84.80565371024736%
+Negative Predictive Value: 86.9281045751634%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 96.6403162055336%
+Num Of False Negatives: 17
+
+Model: 200x200_17
+Accuracy: 83.02207130730051%
+Sensitivity: 85.71428571428571%
+Specificity: 86.73139158576052%
+Positive Predictive Value: 85.40925266903915%
+Negative Predictive Value: 87.01298701298701%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 96.44970414201184%
+Num Of False Negatives: 18
+
+Model: 50x50_11
+Accuracy: 83.02207130730051%
+Sensitivity: 86.07142857142858%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 85.15901060070671%
+Negative Predictive Value: 87.25490196078431%
+Binary Accuracy: 94.73684210526315%
+Precision rate: 96.44970414201184%
+Num Of False Negatives: 18
+
+Model: 225x225_11
+Accuracy: 83.02207130730051%
+Sensitivity: 84.64285714285714%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 84.94623655913979%
+Negative Predictive Value: 86.12903225806451%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 95.88235294117648%
+Num Of False Negatives: 21
+
+Model: 250x250_2
+Accuracy: 83.02207130730051%
+Sensitivity: 83.92857142857143%
+Specificity: 85.76051779935275%
+Positive Predictive Value: 84.22939068100358%
+Negative Predictive Value: 85.48387096774194%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 95.32163742690058%
+Num Of False Negatives: 24
+
+Model: 250x250_4
+Accuracy: 83.02207130730051%
+Sensitivity: 85.0%
+Specificity: 88.02588996763754%
+Positive Predictive Value: 86.54545454545455%
+Negative Predictive Value: 86.62420382165605%
+Binary Accuracy: 94.56706281833617%
+Precision rate: 95.88235294117648%
+Num Of False Negatives: 21
+
+Model: 250x250_9
+Accuracy: 83.02207130730051%
+Sensitivity: 86.07142857142858%
+Specificity: 85.76051779935275%
+Positive Predictive Value: 84.56140350877193%
+Negative Predictive Value: 87.17105263157895%
+Binary Accuracy: 94.39728353140917%
+Precision rate: 95.88235294117648%
+Num Of False Negatives: 21
+
+Model: 250x250_14
+Accuracy: 83.02207130730051%
+Sensitivity: 83.57142857142857%
+Specificity: 88.02588996763754%
+Positive Predictive Value: 86.34686346863468%
+Negative Predictive Value: 85.53459119496856%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 95.5078125%
+Num Of False Negatives: 23
+
+Model: 250x250_16
+Accuracy: 83.02207130730051%
+Sensitivity: 84.64285714285714%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 84.94623655913979%
+Negative Predictive Value: 86.12903225806451%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 95.88235294117648%
+Num Of False Negatives: 21
+
+Model: 125x125_9
+Accuracy: 83.02207130730051%
+Sensitivity: 84.28571428571429%
+Specificity: 87.70226537216828%
+Positive Predictive Value: 86.13138686131386%
+Negative Predictive Value: 86.03174603174604%
+Binary Accuracy: 94.73684210526315%
+Precision rate: 96.07072691552064%
+Num Of False Negatives: 20
+
+Model: 125x125_13
+Accuracy: 83.02207130730051%
+Sensitivity: 84.64285714285714%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.5595667870036%
+Negative Predictive Value: 86.21794871794873%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 95.88235294117648%
+Num Of False Negatives: 21
+
+Model: 150x150_13
+Accuracy: 83.02207130730051%
+Sensitivity: 85.0%
+Specificity: 86.73139158576052%
+Positive Predictive Value: 85.30465949820788%
+Negative Predictive Value: 86.45161290322581%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 97.41035856573706%
+Num Of False Negatives: 13
+
+Model: 175x175_2
+Accuracy: 83.02207130730051%
+Sensitivity: 83.57142857142857%
+Specificity: 88.02588996763754%
+Positive Predictive Value: 86.34686346863468%
+Negative Predictive Value: 85.53459119496856%
+Binary Accuracy: 94.22750424448218%
+Precision rate: 95.32163742690058%
+Num Of False Negatives: 24
+
+Model: 175x175_8
+Accuracy: 83.02207130730051%
+Sensitivity: 86.78571428571429%
+Specificity: 85.43689320388349%
+Positive Predictive Value: 84.375%
+Negative Predictive Value: 87.70764119601328%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 96.6403162055336%
+Num Of False Negatives: 17
+
+Model: 175x175_14
+Accuracy: 83.02207130730051%
+Sensitivity: 84.28571428571429%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.5072463768116%
+Negative Predictive Value: 85.94249201277955%
+Binary Accuracy: 95.92529711375212%
+Precision rate: 97.41035856573706%
+Num Of False Negatives: 13
+
+Model: 200x200_10
+Accuracy: 82.85229202037353%
+Sensitivity: 86.42857142857143%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.73702422145328%
+Negative Predictive Value: 87.33333333333333%
+Binary Accuracy: 95.92529711375212%
+Precision rate: 97.6%
+Num Of False Negatives: 12
+
+Model: 200x200_11
+Accuracy: 82.85229202037353%
+Sensitivity: 87.5%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.9041095890411%
+Negative Predictive Value: 88.21548821548821%
+Binary Accuracy: 94.90662139219015%
+Precision rate: 97.21115537848605%
+Num Of False Negatives: 14
+
+Model: 200x200_12
+Accuracy: 82.85229202037353%
+Sensitivity: 85.71428571428571%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 85.1063829787234%
+Negative Predictive Value: 86.97068403908796%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 96.63366336633663%
+Num Of False Negatives: 17
+
+Model: 50x50_20
+Accuracy: 82.85229202037353%
+Sensitivity: 87.5%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.9041095890411%
+Negative Predictive Value: 88.21548821548821%
+Binary Accuracy: 94.90662139219015%
+Precision rate: 96.25246548323472%
+Num Of False Negatives: 19
+
+Model: 225x225_16
+Accuracy: 82.85229202037353%
+Sensitivity: 86.42857142857143%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.73702422145328%
+Negative Predictive Value: 87.33333333333333%
+Binary Accuracy: 94.90662139219015%
+Precision rate: 94.94163424124513%
+Num Of False Negatives: 26
+
+Model: 250x250_10
+Accuracy: 82.85229202037353%
+Sensitivity: 87.14285714285714%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.8487972508591%
+Negative Predictive Value: 87.91946308724832%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 96.82539682539682%
+Num Of False Negatives: 16
+
+Model: 250x250_11
+Accuracy: 82.85229202037353%
+Sensitivity: 83.92857142857143%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.45454545454545%
+Negative Predictive Value: 85.6687898089172%
+Binary Accuracy: 94.90662139219015%
+Precision rate: 95.3125%
+Num Of False Negatives: 24
+
+Model: 125x125_1
+Accuracy: 82.85229202037353%
+Sensitivity: 88.21428571428571%
+Specificity: 83.1715210355987%
+Positive Predictive Value: 82.6086956521739%
+Negative Predictive Value: 88.62068965517241%
+Binary Accuracy: 95.75551782682513%
+Precision rate: 97.40518962075848%
+Num Of False Negatives: 13
+
+Model: 125x125_11
+Accuracy: 82.85229202037353%
+Sensitivity: 87.14285714285714%
+Specificity: 85.11326860841424%
+Positive Predictive Value: 84.13793103448276%
+Negative Predictive Value: 87.95986622073578%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 96.44268774703558%
+Num Of False Negatives: 18
+
+Model: 125x125_16
+Accuracy: 82.85229202037353%
+Sensitivity: 85.35714285714285%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.66308243727599%
+Negative Predictive Value: 86.7741935483871%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 95.87426326129666%
+Num Of False Negatives: 21
+
+Model: 150x150_2
+Accuracy: 82.85229202037353%
+Sensitivity: 82.14285714285714%
+Specificity: 89.96763754045307%
+Positive Predictive Value: 88.12260536398468%
+Negative Predictive Value: 84.7560975609756%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 97.21115537848605%
+Num Of False Negatives: 14
+
+Model: 150x150_3
+Accuracy: 82.85229202037353%
+Sensitivity: 84.64285714285714%
+Specificity: 85.76051779935275%
+Positive Predictive Value: 84.34163701067615%
+Negative Predictive Value: 86.03896103896103%
+Binary Accuracy: 96.09507640067912%
+Precision rate: 97.40518962075848%
+Num Of False Negatives: 13
+
+Model: 150x150_17
+Accuracy: 82.85229202037353%
+Sensitivity: 85.71428571428571%
+Specificity: 85.76051779935275%
+Positive Predictive Value: 84.50704225352112%
+Negative Predictive Value: 86.88524590163934%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 95.87426326129666%
+Num Of False Negatives: 21
+
+Model: 150x150_20
+Accuracy: 82.85229202037353%
+Sensitivity: 86.07142857142858%
+Specificity: 85.43689320388349%
+Positive Predictive Value: 84.26573426573427%
+Negative Predictive Value: 87.12871287128714%
+Binary Accuracy: 96.09507640067912%
+Precision rate: 97.99196787148594%
+Num Of False Negatives: 10
+
+Model: 50x50_13
+Accuracy: 82.68251273344653%
+Sensitivity: 85.35714285714285%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.66308243727599%
+Negative Predictive Value: 86.7741935483871%
+Binary Accuracy: 94.56706281833617%
+Precision rate: 95.86614173228347%
+Num Of False Negatives: 21
+
+Model: 50x50_14
+Accuracy: 82.68251273344653%
+Sensitivity: 86.78571428571429%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.79310344827586%
+Negative Predictive Value: 87.62541806020067%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 96.05522682445759%
+Num Of False Negatives: 20
+
+Model: 225x225_4
+Accuracy: 82.68251273344653%
+Sensitivity: 87.14285714285714%
+Specificity: 83.1715210355987%
+Positive Predictive Value: 82.43243243243244%
+Negative Predictive Value: 87.71331058020478%
+Binary Accuracy: 96.43463497453311%
+Precision rate: 97.98792756539235%
+Num Of False Negatives: 10
+
+Model: 225x225_20
+Accuracy: 82.68251273344653%
+Sensitivity: 86.78571428571429%
+Specificity: 85.11326860841424%
+Positive Predictive Value: 84.08304498269896%
+Negative Predictive Value: 87.66666666666667%
+Binary Accuracy: 94.05772495755518%
+Precision rate: 94.9317738791423%
+Num Of False Negatives: 26
+
+Model: 250x250_7
+Accuracy: 82.68251273344653%
+Sensitivity: 82.5%
+Specificity: 87.70226537216828%
+Positive Predictive Value: 85.87360594795538%
+Negative Predictive Value: 84.6875%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 96.05522682445759%
+Num Of False Negatives: 20
+
+Model: 250x250_19
+Accuracy: 82.68251273344653%
+Sensitivity: 85.0%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 85.0%
+Negative Predictive Value: 86.40776699029125%
+Binary Accuracy: 94.56706281833617%
+Precision rate: 95.49019607843138%
+Num Of False Negatives: 23
+
+Model: 250x250_20
+Accuracy: 82.68251273344653%
+Sensitivity: 86.42857142857143%
+Specificity: 86.08414239482201%
+Positive Predictive Value: 84.91228070175438%
+Negative Predictive Value: 87.5%
+Binary Accuracy: 93.71816638370119%
+Precision rate: 94.9317738791423%
+Num Of False Negatives: 26
+
+Model: 400x400_1
+Accuracy: 82.68251273344653%
+Sensitivity: 81.42857142857143%
+Specificity: 88.67313915857605%
+Positive Predictive Value: 86.69201520912547%
+Negative Predictive Value: 84.04907975460122%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 95.1171875%
+Num Of False Negatives: 25
+
+Model: 75x75_8
+Accuracy: 82.68251273344653%
+Sensitivity: 84.64285714285714%
+Specificity: 87.37864077669903%
+Positive Predictive Value: 85.86956521739131%
+Negative Predictive Value: 86.26198083067092%
+Binary Accuracy: 94.39728353140917%
+Precision rate: 94.37984496124031%
+Num Of False Negatives: 29
+
+Model: 75x75_9
+Accuracy: 82.68251273344653%
+Sensitivity: 85.35714285714285%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 85.05338078291815%
+Negative Predictive Value: 86.68831168831169%
+Binary Accuracy: 94.39728353140917%
+Precision rate: 94.9317738791423%
+Num Of False Negatives: 26
+
+Model: 100x100_3
+Accuracy: 82.68251273344653%
+Sensitivity: 86.78571428571429%
+Specificity: 83.49514563106796%
+Positive Predictive Value: 82.6530612244898%
+Negative Predictive Value: 87.45762711864407%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 97.39999999999999%
+Num Of False Negatives: 13
+
+Model: 100x100_8
+Accuracy: 82.68251273344653%
+Sensitivity: 89.28571428571429%
+Specificity: 81.55339805825243%
+Positive Predictive Value: 81.43322475570032%
+Negative Predictive Value: 89.36170212765957%
+Binary Accuracy: 94.90662139219015%
+Precision rate: 96.24505928853755%
+Num Of False Negatives: 19
+
+Model: 100x100_13
+Accuracy: 82.68251273344653%
+Sensitivity: 85.0%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 85.0%
+Negative Predictive Value: 86.40776699029125%
+Binary Accuracy: 94.73684210526315%
+Precision rate: 95.67779960707269%
+Num Of False Negatives: 22
+
+Model: 100x100_18
+Accuracy: 82.68251273344653%
+Sensitivity: 83.92857142857143%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.45454545454545%
+Negative Predictive Value: 85.6687898089172%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 96.43564356435644%
+Num Of False Negatives: 18
+
+Model: 100x100_20
+Accuracy: 82.68251273344653%
+Sensitivity: 87.5%
+Specificity: 83.1715210355987%
+Positive Predictive Value: 82.49158249158249%
+Negative Predictive Value: 88.01369863013699%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 96.62698412698413%
+Num Of False Negatives: 17
+
+Model: 125x125_3
+Accuracy: 82.68251273344653%
+Sensitivity: 85.71428571428571%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 85.1063829787234%
+Negative Predictive Value: 86.97068403908796%
+Binary Accuracy: 94.56706281833617%
+Precision rate: 96.05522682445759%
+Num Of False Negatives: 20
+
+Model: 125x125_6
+Accuracy: 82.68251273344653%
+Sensitivity: 85.71428571428571%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.62369337979094%
+Negative Predictive Value: 86.75496688741721%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 95.67779960707269%
+Num Of False Negatives: 22
+
+Model: 125x125_12
+Accuracy: 82.68251273344653%
+Sensitivity: 83.92857142857143%
+Specificity: 87.70226537216828%
+Positive Predictive Value: 86.08058608058609%
+Negative Predictive Value: 85.75949367088607%
+Binary Accuracy: 94.73684210526315%
+Precision rate: 96.05522682445759%
+Num Of False Negatives: 20
+
+Model: 150x150_6
+Accuracy: 82.68251273344653%
+Sensitivity: 83.57142857142857%
+Specificity: 87.37864077669903%
+Positive Predictive Value: 85.71428571428571%
+Negative Predictive Value: 85.44303797468355%
+Binary Accuracy: 94.22750424448218%
+Precision rate: 94.9317738791423%
+Num Of False Negatives: 26
+
+Model: 175x175_10
+Accuracy: 82.68251273344653%
+Sensitivity: 85.35714285714285%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.66308243727599%
+Negative Predictive Value: 86.7741935483871%
+Binary Accuracy: 94.56706281833617%
+Precision rate: 95.49019607843138%
+Num Of False Negatives: 23
+
+Model: 175x175_17
+Accuracy: 82.68251273344653%
+Sensitivity: 88.57142857142857%
+Specificity: 83.49514563106796%
+Positive Predictive Value: 82.94314381270902%
+Negative Predictive Value: 88.96551724137932%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 97.2055888223553%
+Num Of False Negatives: 14
+
+Model: 275x275_2
+Accuracy: 82.68251273344653%
+Sensitivity: 84.28571428571429%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.5072463768116%
+Negative Predictive Value: 85.94249201277955%
+Binary Accuracy: 94.22750424448218%
+Precision rate: 95.30332681017613%
+Num Of False Negatives: 24
+
+Model: 275x275_3
+Accuracy: 82.68251273344653%
+Sensitivity: 87.85714285714286%
+Specificity: 82.20064724919094%
+Positive Predictive Value: 81.72757475083057%
+Negative Predictive Value: 88.19444444444444%
+Binary Accuracy: 95.75551782682513%
+Precision rate: 95.67779960707269%
+Num Of False Negatives: 22
+
+Model: 200x200_6
+Accuracy: 82.51273344651952%
+Sensitivity: 86.42857142857143%
+Specificity: 85.11326860841424%
+Positive Predictive Value: 84.02777777777779%
+Negative Predictive Value: 87.37541528239203%
+Binary Accuracy: 95.24617996604414%
+Precision rate: 95.48133595284872%
+Num Of False Negatives: 23
+
+Model: 50x50_1
+Accuracy: 82.51273344651952%
+Sensitivity: 84.64285714285714%
+Specificity: 87.05501618122977%
+Positive Predictive Value: 85.5595667870036%
+Negative Predictive Value: 86.21794871794873%
+Binary Accuracy: 94.56706281833617%
+Precision rate: 94.921875%
+Num Of False Negatives: 26
+
+Model: 50x50_5
+Accuracy: 82.51273344651952%
+Sensitivity: 84.28571428571429%
+Specificity: 87.70226537216828%
+Positive Predictive Value: 86.13138686131386%
+Negative Predictive Value: 86.03174603174604%
+Binary Accuracy: 94.05772495755518%
+Precision rate: 95.85798816568047%
+Num Of False Negatives: 21
+
+Model: 225x225_3
+Accuracy: 82.51273344651952%
+Sensitivity: 85.35714285714285%
+Specificity: 86.73139158576052%
+Positive Predictive Value: 85.35714285714285%
+Negative Predictive Value: 86.73139158576052%
+Binary Accuracy: 94.22750424448218%
+Precision rate: 95.10763209393346%
+Num Of False Negatives: 25
+
+Model: 225x225_18
+Accuracy: 82.51273344651952%
+Sensitivity: 82.85714285714286%
+Specificity: 86.73139158576052%
+Positive Predictive Value: 84.98168498168498%
+Negative Predictive Value: 84.81012658227847%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 96.62027833001989%
+Num Of False Negatives: 17
+
+Model: 250x250_3
+Accuracy: 82.51273344651952%
+Sensitivity: 84.64285714285714%
+Specificity: 84.14239482200647%
+Positive Predictive Value: 82.86713286713287%
+Negative Predictive Value: 85.8085808580858%
+Binary Accuracy: 95.75551782682513%
+Precision rate: 96.23762376237623%
+Num Of False Negatives: 19
+
+Model: 75x75_1
+Accuracy: 82.51273344651952%
+Sensitivity: 84.64285714285714%
+Specificity: 87.37864077669903%
+Positive Predictive Value: 85.86956521739131%
+Negative Predictive Value: 86.26198083067092%
+Binary Accuracy: 94.73684210526315%
+Precision rate: 94.921875%
+Num Of False Negatives: 26
+
+Model: 75x75_11
+Accuracy: 82.51273344651952%
+Sensitivity: 83.57142857142857%
+Specificity: 88.02588996763754%
+Positive Predictive Value: 86.34686346863468%
+Negative Predictive Value: 85.53459119496856%
+Binary Accuracy: 93.2088285229202%
+Precision rate: 93.10344827586206%
+Num Of False Negatives: 36
+
+Model: 75x75_12
+Accuracy: 82.51273344651952%
+Sensitivity: 83.92857142857143%
+Specificity: 87.70226537216828%
+Positive Predictive Value: 86.08058608058609%
+Negative Predictive Value: 85.75949367088607%
+Binary Accuracy: 94.39728353140917%
+Precision rate: 94.921875%
+Num Of False Negatives: 26
+
+Model: 100x100_5
+Accuracy: 82.51273344651952%
+Sensitivity: 85.71428571428571%
+Specificity: 84.46601941747572%
+Positive Predictive Value: 83.33333333333334%
+Negative Predictive Value: 86.71096345514951%
+Binary Accuracy: 95.92529711375212%
+Precision rate: 97.39478957915831%
+Num Of False Negatives: 13
+
+Model: 100x100_10
+Accuracy: 82.51273344651952%
+Sensitivity: 84.64285714285714%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 84.94623655913979%
+Negative Predictive Value: 86.12903225806451%
+Binary Accuracy: 95.41595925297113%
+Precision rate: 96.62027833001989%
+Num Of False Negatives: 17
+
+Model: 125x125_2
+Accuracy: 82.51273344651952%
+Sensitivity: 85.71428571428571%
+Specificity: 85.43689320388349%
+Positive Predictive Value: 84.21052631578947%
+Negative Predictive Value: 86.8421052631579%
+Binary Accuracy: 94.90662139219015%
+Precision rate: 95.48133595284872%
+Num Of False Negatives: 23
+
+Model: 125x125_7
+Accuracy: 82.51273344651952%
+Sensitivity: 83.57142857142857%
+Specificity: 86.40776699029125%
+Positive Predictive Value: 84.78260869565217%
+Negative Predictive Value: 85.3035143769968%
+Binary Accuracy: 95.07640067911714%
+Precision rate: 95.10763209393346%
+Num Of False Negatives: 25
+
+Model: 125x125_20
+Accuracy: 82.51273344651952%
+Sensitivity: 86.07142857142858%
+Specificity: 84.14239482200647%
+Positive Predictive Value: 83.10344827586206%
+Negative Predictive Value: 86.95652173913044%
+Binary Accuracy: 95.58573853989813%
+Precision rate: 96.42857142857143%
+Num Of False Negatives: 18
+
+Model: 150x150_9
+Accuracy: 82.51273344651952%
+Sensitivity: 87.85714285714286%
+Specificity: 82.84789644012946%
+Positive Predictive Value: 82.2742474916388%
+Negative Predictive Value: 88.27586206896552%
+Binary Accuracy: 94.90662139219015%
+Precision rate: 96.62027833001989%
+Num Of False Negatives: 17
+
+Model: 150x150_10
+Accuracy: 82.51273344651952%
+Sensitivity: 85.0%
+Specificity: 84.78964401294499%
+Positive Predictive Value: 83.50877192982456%
+Negative Predictive Value: 86.18421052631578%
+Binary Accuracy: 95.92529711375212%
+Precision rate: 97.59036144578313%
+Num Of False Negatives: 12
+

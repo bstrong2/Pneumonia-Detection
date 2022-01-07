@@ -234,8 +234,9 @@ def LoadImages(path):
         images = np.array(images)
         return labels, images
 
-imageSizes = [400, 375, 350, 325, 300, 275, 175, 150, 125, 100, 75]
-
+imageSizes = [375, 350, 325, 300, 275, 175, 150, 125, 100, 75]
+imageSizes = [175, 200, 225, 250, 275, 300, 325, 350, 375]
+int = 0
 
 for i in imageSizes:
     imageHeight = i
@@ -284,6 +285,12 @@ for i in imageSizes:
     xtest = xtest.reshape(xtest.shape[0], xtest.shape[1], xtest.shape[2], 1)
     xval = xval.reshape(xval.shape[0], xval.shape[1], xval.shape[2], 1)
     reset = 0
+
+    if int == 0:
+        int += 1
+        iteration = 19
+    else:
+        iteration = 0
     while iteration < totalIterations:
         iteration += 1
 
@@ -424,11 +431,11 @@ for i in imageSizes:
         plt.savefig(fileOutput + 'Loss\\' + 'Model Saves_' + str(imageWidth) + 'x' + str(imageHeight) + '_'
                     + str(iteration) + '.png', bbox_inches='tight')
 
-        reset += 1
-        if reset % 2 == 0:
-            del cnn
-            del model
-            del output1
+        #reset += 1
+        #if reset % 2 == 0:
+        del cnn
+        del model
+        del output1
 
         file.close()
 
