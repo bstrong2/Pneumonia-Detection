@@ -38,6 +38,7 @@ imageHeight = 250
 iteration = 0
 totalIterations = 20
 
+
 def LoadImages(path):
     pathb = path + bacteria
     bacteriaFiles = np.array(os.listdir(pathb))
@@ -234,13 +235,12 @@ def LoadImages(path):
         return labels, images
 
 
-
-imageSizes = [400, 375, 350, 325, 300, 275, 250, 225, 200, 175, 150, 125, 100, 75, 50]
-
+imageSizes = [50, 75, 100, 125, 150, 175, 200, 225, 250, 275]
+int = 0
 
 for i in imageSizes:
-    imageWidth = i
     imageHeight = i
+    imageWidth = i
 
     found = False
     # CHECK IF THERE IS A PICKLE FILE!!
@@ -249,6 +249,10 @@ for i in imageSizes:
         if 'pneumonia_' + str(imageWidth) + 'x' + str(imageHeight) + '.pickle' in f:
             found = True
             break
+
+    #
+    # IF THERE ISN'T A '.PICKLE' FILE THEN UNCOMMENT THESE LINES!!!!!
+    #
 
     if found == False:
         # load the images into memory start with NORMAL
@@ -280,8 +284,8 @@ for i in imageSizes:
     xtrain = xtrain.reshape(xtrain.shape[0], xtrain.shape[1], xtrain.shape[2], 1)
     xtest = xtest.reshape(xtest.shape[0], xtest.shape[1], xtest.shape[2], 1)
     xval = xval.reshape(xval.shape[0], xval.shape[1], xval.shape[2], 1)
-
     reset = 0
+
     while iteration < totalIterations:
         iteration += 1
 
@@ -301,22 +305,10 @@ for i in imageSizes:
         # The numbers that we will use for layer 1's input
         input1 = Input(shape=(xtrain.shape[1], xtrain.shape[2], 1))
 
-        cnn = Conv2D(16, (4, 4), activation='relu', strides=(1, 1),
-                     padding='same')(input1)
-        cnn = Conv2D(32, (4, 4), activation='relu', strides=(1, 1),
-                     padding='same')(cnn)
-        cnn = MaxPool2D((2, 2))(cnn)
-
         cnn = Conv2D(16, (3, 3), activation='relu', strides=(1, 1),
-                     padding='same')(input1)
+            padding='same')(input1)
         cnn = Conv2D(32, (3, 3), activation='relu', strides=(1, 1),
-                     padding='same')(cnn)
-        cnn = MaxPool2D((2, 2))(cnn)
-
-        cnn = Conv2D(16, (2, 2), activation='relu', strides=(1, 1),
-                     padding='same')(cnn)
-        cnn = Conv2D(32, (2, 2), activation='relu', strides=(1, 1),
-                     padding='same')(cnn)
+            padding='same')(cnn)
         cnn = MaxPool2D((2, 2))(cnn)
 
         #
@@ -427,10 +419,11 @@ for i in imageSizes:
         plt.savefig(fileOutput + 'Loss\\' + 'Model Saves_' + str(imageWidth) + 'x' + str(imageHeight) + '_'
                     + str(iteration) + '.png', bbox_inches='tight')
 
-        reset += 1
-        if reset % 2 == 0:
-            del cnn
-            del model
-            del output1
+        #reset += 1
+        #if reset % 2 == 0:
+        del cnn
+        del model
+        del output1
 
         file.close()
+

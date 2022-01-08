@@ -234,8 +234,8 @@ def LoadImages(path):
         images = np.array(images)
         return labels, images
 
-imageSizes = [375, 350, 325, 300, 275, 175, 150, 125, 100, 75]
-imageSizes = [175, 200, 225, 250, 275, 300, 325, 350, 375]
+
+imageSizes = [50, 75, 100, 125, 150, 175, 200, 225, 250, 275]
 int = 0
 
 for i in imageSizes:
@@ -286,11 +286,6 @@ for i in imageSizes:
     xval = xval.reshape(xval.shape[0], xval.shape[1], xval.shape[2], 1)
     reset = 0
 
-    if int == 0:
-        int += 1
-        iteration = 19
-    else:
-        iteration = 0
     while iteration < totalIterations:
         iteration += 1
 
